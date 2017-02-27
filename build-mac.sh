@@ -4,4 +4,6 @@
 
 ./build.sh
 
-./build-kaliumjni.sh
+./build-hostjni.sh
+
+gradle build --full-stacktrace

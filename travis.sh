@@ -9,3 +9,4 @@ else
     gradle connectedCheck --full-stacktrace
 fi
 
+./build-hostjni.sh
